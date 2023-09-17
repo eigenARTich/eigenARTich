@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eigenARTich aka SerCoder/CryptoNite.
 - 👀 I’m interested in blockchain coding & cryptocurrencies.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on coding smart contracts.
+- 💞️ I’m looking to collaborate in coding smart contracts & dApps.
 - 📫 You can reach me via my Socials.
 
 <!---
